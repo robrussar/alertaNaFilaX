@@ -22,4 +22,6 @@ Então, além de emitir um alerta sonoro, o código exibe um alerta na tela e ta
 Funcionalidade utilizada todos os dias e de alta demanda, pois é usada durante todo o período em que estávamos executando nossas atividades.
 
 O código está presente no vídeo.
+Também temos a página de atendimento no arquivo de imagem.
+
 Não temos mais materiais para visualização, pois não postei o projeto enquanto atuava na empresa.
