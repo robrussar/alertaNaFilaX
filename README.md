@@ -9,6 +9,7 @@ O robô alerta sonoro e fala o alerta que desejarmos também.
 Onde: 
 
 Acima de 6 minutos = estourou tempo de de espera do atendimento. 
+
 Dentro de 6 minutos = atendimento dentro do esperado.
 
 Nossas atividades eram muito diversificadas, fazendo tudo ao mesmo tempo, oscilando entre operacional e gestão.
